@@ -1,0 +1,20 @@
+{
+  "short_name": "SakoonAdmin",
+  "name": "SakoonApp Admin",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a3d",
+  "background_color": "#0a0f2c",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
