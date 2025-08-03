@@ -1,9 +1,0 @@
-
-{
-  "name": "SakoonApp Admin",
-  "description": "A React application for a voice call and chat service, allowing users (hosts) to go live, receive calls, and track their earnings and call statistics. Includes a dashboard, chat interface, and settings.",
-  "requestFramePermissions": [
-    "microphone"
-  ],
-  "prompt": ""
-}
